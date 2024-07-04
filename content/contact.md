@@ -1,7 +1,6 @@
 ---
 title: Contact
-featured_image: ''
-omit_header_text: true
+featured_image: '/images/myrtle_sign_banner_2.jpg'
 description: Find me on these platforms!
 type: page
 # menu: main

@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/projects/singable_bach_ai/</loc>
+    <loc>http://localhost:1313/tech-portfolio/projects/singable_bach_ai/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/projects/livesplit_parser/</loc>
+    <loc>http://localhost:1313/tech-portfolio/projects/livesplit_parser/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/projects/gu_choirs_digital_library/</loc>
+    <loc>http://localhost:1313/tech-portfolio/projects/gu_choirs_digital_library/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/projects/splatoon3_battle_data/</loc>
+    <loc>http://localhost:1313/tech-portfolio/projects/splatoon3_battle_data/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/projects/stem_notes/</loc>
+    <loc>http://localhost:1313/tech-portfolio/projects/stem_notes/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/projects/mario_kart_8_custom_cup/</loc>
+    <loc>http://localhost:1313/tech-portfolio/projects/mario_kart_8_custom_cup/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/projects/why_travis_scott/</loc>
+    <loc>http://localhost:1313/tech-portfolio/projects/why_travis_scott/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/projects/league/</loc>
+    <loc>http://localhost:1313/tech-portfolio/projects/league/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/projects/monkeytype/</loc>
+    <loc>http://localhost:1313/tech-portfolio/projects/monkeytype/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/about/</loc>
+    <loc>http://localhost:1313/tech-portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/categories/</loc>
+    <loc>http://localhost:1313/tech-portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/contact/</loc>
+    <loc>http://localhost:1313/tech-portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/projects/</loc>
+    <loc>http://localhost:1313/tech-portfolio/projects/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/tags/</loc>
+    <loc>http://localhost:1313/tech-portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/tech-portfolio/</loc>
+    <loc>http://localhost:1313/tech-portfolio/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

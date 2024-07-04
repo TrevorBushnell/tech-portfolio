@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Trevor Bushnell</title>
-    <link>https://TrevorBushnell.github.io/tech-portfolio/projects/</link>
+    <link>http://localhost:1313/tech-portfolio/projects/</link>
     <description>Recent content in Projects on Trevor Bushnell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://TrevorBushnell.github.io/tech-portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tech-portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Honors Thesis: Analyzing the Singability of Choir AI</title>
-      <link>https://TrevorBushnell.github.io/tech-portfolio/projects/singable_bach_ai/</link>
+      <link>http://localhost:1313/tech-portfolio/projects/singable_bach_ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TrevorBushnell.github.io/tech-portfolio/projects/singable_bach_ai/</guid>
+      <guid>http://localhost:1313/tech-portfolio/projects/singable_bach_ai/</guid>
       <description>This was my first data science project. It was created and presented as my final project in my CPSC222: Intro to Data Science class. In 2021, I was invested in improving my typing speeds. Since I had so much typing data, I was interested in seeing what my progress was like over time.&#xA;Watch the livestream of the lecture recital here&#xA;See the status of the project here&#xA;Tasks included:</description>
     </item>
     <item>
       <title>Livesplit Parser</title>
-      <link>https://TrevorBushnell.github.io/tech-portfolio/projects/livesplit_parser/</link>
+      <link>http://localhost:1313/tech-portfolio/projects/livesplit_parser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TrevorBushnell.github.io/tech-portfolio/projects/livesplit_parser/</guid>
+      <guid>http://localhost:1313/tech-portfolio/projects/livesplit_parser/</guid>
       <description>Speedrunning is a massive hobby that I have participated in since June of 2020. I have tried to speedrun many games over the last few years, and as a result I have many various attempts completed. Being the math and numbers guy I am, I wanted a way to be able to analyze the data in my speedruns. While many people have provided tools to do this, no one has had a library that lets me pull the data out of my speedrun timer files cleanly, easily, and programmatically.</description>
     </item>
     <item>
       <title>Gonzaga Choirs Digital Library: A Webapp</title>
-      <link>https://TrevorBushnell.github.io/tech-portfolio/projects/gu_choirs_digital_library/</link>
+      <link>http://localhost:1313/tech-portfolio/projects/gu_choirs_digital_library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TrevorBushnell.github.io/tech-portfolio/projects/gu_choirs_digital_library/</guid>
+      <guid>http://localhost:1313/tech-portfolio/projects/gu_choirs_digital_library/</guid>
       <description>While I can&amp;rsquo;t link the source code because of the private information being managed, I built an online webapp and small database for managing our entire choral catalog for all the choirs at Gonzaga per the direction of our director Dr. Meg Stohlmann. This was a satisfying project for me because I was able to combine my love of programming and problem solving with choir. The final project is able to serve the choral community long after I graduate college.</description>
     </item>
     <item>
       <title>Splatoon 3 Battle Dashboard</title>
-      <link>https://TrevorBushnell.github.io/tech-portfolio/projects/splatoon3_battle_data/</link>
+      <link>http://localhost:1313/tech-portfolio/projects/splatoon3_battle_data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TrevorBushnell.github.io/tech-portfolio/projects/splatoon3_battle_data/</guid>
+      <guid>http://localhost:1313/tech-portfolio/projects/splatoon3_battle_data/</guid>
       <description>I&amp;rsquo;m a huge Nintendo fan in my free time, and Splatoon 3 is a game that I play on and off. As a part of having the game, Nintendo has a service in the form of an app for your phone that lets you view statistics of your previous battles that you have participated in. What&amp;rsquo;s awesome is that people way smarter than me found a way to reverse-engineer the API controlling the app to allow you to permanently save your battle data using various online free services.</description>
     </item>
     <item>
       <title>STEM Notes</title>
-      <link>https://TrevorBushnell.github.io/tech-portfolio/projects/stem_notes/</link>
+      <link>http://localhost:1313/tech-portfolio/projects/stem_notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TrevorBushnell.github.io/tech-portfolio/projects/stem_notes/</guid>
+      <guid>http://localhost:1313/tech-portfolio/projects/stem_notes/</guid>
       <description>I absolutely adore LaTeX, and I use it in combination with Jupyter notebooks and Markdown to type most of my notes in my STEM classes. These notes are completely open source and free for anyone to use. You are also welcome to contribute to the notes base if you so choose!&#xA;Get my STEM notes&#xA;Tasks include:&#xA;Use LaTeX to typeset my notes in my physics, math, and computer science courses </description>
     </item>
     <item>
       <title>Mario Kart 8 Deluxe Custom Cup Generator</title>
-      <link>https://TrevorBushnell.github.io/tech-portfolio/projects/mario_kart_8_custom_cup/</link>
+      <link>http://localhost:1313/tech-portfolio/projects/mario_kart_8_custom_cup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TrevorBushnell.github.io/tech-portfolio/projects/mario_kart_8_custom_cup/</guid>
+      <guid>http://localhost:1313/tech-portfolio/projects/mario_kart_8_custom_cup/</guid>
       <description>My best videogame hands down has to be Mario Kart. I absolutely love this game and I play it constantly on my own. One day, my roommate and I played through every track in Mario Kart 8 Deluxe for the Switch and ranked them in a tier list. It was quite the fun activity on a chill weekend.&#xA;However, when we just wanted to play the game normally, we had a hard time picking tracks.</description>
     </item>
     <item>
       <title>Why Travis Scott</title>
-      <link>https://TrevorBushnell.github.io/tech-portfolio/projects/why_travis_scott/</link>
+      <link>http://localhost:1313/tech-portfolio/projects/why_travis_scott/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TrevorBushnell.github.io/tech-portfolio/projects/why_travis_scott/</guid>
+      <guid>http://localhost:1313/tech-portfolio/projects/why_travis_scott/</guid>
       <description>My friends know that I am such a choir nerd and exclusively listen to choir on Spotify. As such, it was a massive surprise when I looked at my 2023 Spotify Wrapped to find that my #2 artist for the year was Travis Scott. I was shocked and bewildered - how does a rapper make it into my Spotify Wrapped surrounded by multitudes of choir music? To figure some things out, I asked for my Spotify data and did a short data science project looking for my findings.</description>
     </item>
     <item>
       <title>League of Legends Project</title>
-      <link>https://TrevorBushnell.github.io/tech-portfolio/projects/league/</link>
+      <link>http://localhost:1313/tech-portfolio/projects/league/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TrevorBushnell.github.io/tech-portfolio/projects/league/</guid>
+      <guid>http://localhost:1313/tech-portfolio/projects/league/</guid>
       <description>This was a team project where I worked with Ben Lombardi (Gonzaga class of 2023) to see if we could figure out the winning player in a League of Legends match based on data collected in the first 10 minutes of the match. This project was completed for my CPSC322: Data Science Algorithms class.&#xA;Check out the report&#xA;Tasks included:&#xA;Communicating with team members to develop a cohesive project and presentation Build popular machine learning algorithms (kNN, Naive Bayes, Random Forest) by hand Produce visualizations that helped provide insights into the dataset and helped us choose what attributes to train on Communicated these insights in the form of a report and presented the findings to the class and professor </description>
     </item>
     <item>
       <title>MonkeyType Data Project</title>
-      <link>https://TrevorBushnell.github.io/tech-portfolio/projects/monkeytype/</link>
+      <link>http://localhost:1313/tech-portfolio/projects/monkeytype/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TrevorBushnell.github.io/tech-portfolio/projects/monkeytype/</guid>
+      <guid>http://localhost:1313/tech-portfolio/projects/monkeytype/</guid>
       <description>This was my first data science project. It was created and presented as my final project in my CPSC222: Intro to Data Science class. In 2021, I was invested in improving my typing speeds. Since I had so much typing data, I was interested in seeing what my progress was like over time.&#xA;Check out the report&#xA;Tasks included:&#xA;Scraping for my data on the typing test website I used (the data was not easily downloadable at the time I did this project) Creating visualizations that showed my typing improvements over time Developed a simple machine learning model that predicted the threshold of my typing speeds based on other typing factors Communicated these insights in the form of a report and presented my findings to the class and professor </description>
     </item>
   </channel>

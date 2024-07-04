@@ -13,6 +13,8 @@ featured_image: '/images/college_hall_banner_1.jpg'
 
 I'm an aspiring data scientist that uses Python, R, and Julia to do my data science and computational mathematics tasks!
 
+![](/images/college_hall_banner_1.jpg)
+
 #### Interests
 I am a huge numbers geek and love to analyze and interpret data. While this is my main career focus, I also occasionally develop on projects for the speedrunning community, including simple bingo generators and trackers for speedruns and a library for speedrunners to analyze their own data. Additionally, I'm super passionate about computational musicology - i.e. how we can use computer programming to analyze many scores to find trends in music in a much faster and efficient manner than through reading scores by hand.
 
